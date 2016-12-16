@@ -7,3 +7,7 @@ Work on Beta parameters estimation:
 * Maximum likelihood estimation
 * Newton-Raphson approximation
 * Wald test
+
+Questions are in questions.pdf
+
+Answers are in answers.pdf (in French)
